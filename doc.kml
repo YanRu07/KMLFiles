@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+<Document>
+<Style>
+<ListStyle id="hideChildren">
+<listItemType>checkHideChildren</listItemType>
+</ListStyle>
+</Style>
+<name>Output</name>
+<NetworkLink>
+<name>0/0/0</name>
+<Region>
+<Lod>
+<minLodPixels>-1</minLodPixels>
+<maxLodPixels>-1</maxLodPixels>
+</Lod>
+<LatLonAltBox><west>0.00001248274347</west>
+<north>0.00093286372005</north>
+<east>0.00171751513174</east>
+<south>-0.00077216866822</south>
+</LatLonAltBox>
+</Region>
+<Link>
+<href>0/0/0.kml</href>
+<viewRefreshMode>onRegion</viewRefreshMode>
+</Link>
+</NetworkLink>
+<LookAt>
+<longitude>0.00047266665588</longitude>
+<latitude>0.00047267980764</latitude>
+<altitude>0</altitude>
+<range>132.32941461495290</range>
+<tilt>0</tilt>
+<heading>0</heading>
+</LookAt>
+</Document>
+</kml>
